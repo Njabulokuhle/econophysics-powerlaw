@@ -31,4 +31,3 @@ Banks and hedge funds that use normal distribution models systematically underes
 ![Power Law Fit](powerlaw_fit.png)
 *Log-log plot of extreme negative returns. Straight red line confirms power law.*
 
-### Statistical Output
